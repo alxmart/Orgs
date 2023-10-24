@@ -1,4 +1,6 @@
 package com.luizafmartinez.orgs
 
-class MainActivity {
+import android.app.Activity
+
+class MainActivity : Activity() {
 }
